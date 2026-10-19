@@ -1,0 +1,14 @@
+{
+  "val_loss": 3.704642998821595,
+  "train_seconds": 478.42,
+  "boost_steps": 366,
+  "cut_steps": 427,
+  "tokens": 9994240,
+  "full_epoch": true,
+  "screening_only": false,
+  "mode": "full",
+  "variant": "boost-exact",
+  "training_rows": 4880,
+  "training_predictions": 9994240,
+  "original_full_schedule_retained": true
+}
